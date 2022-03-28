@@ -1,0 +1,15 @@
+/run/initialize
+#
+/control/verbose 2
+/tracking/verbose 2
+#
+#/run/beamOn 1
+#
+/tracking/verbose 0
+#/run/beamOn 100
+/vis/scene/add/trajectories
+/tracking/storeTrajectory 1
+/run/beamOn 100000
+/run/beamOn 100000
+/run/beamOn 100000
+/run/beamOn 100000
